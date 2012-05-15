@@ -1,4 +1,4 @@
 BrewBuddy
 =========
 
-Helps determine who makes the tea
+Helps determine who makes the tea :)
